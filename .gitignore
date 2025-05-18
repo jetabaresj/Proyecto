@@ -1,1 +1,6 @@
+# Ignorar entorno virtual
 .venv/
+
+# Ignorar archivos de Excel y CSV
+*.xlsx
+*.csv
